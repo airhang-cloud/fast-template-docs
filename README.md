@@ -9,9 +9,10 @@
 -   小型系统搭建，开箱立马使用
 -   适合对象: 新手、学生、公司小项目
 -   新技术结合进行尝试
+-   [demo 预览地址](https://airhang-cloud.github.io/fast-system-template-pre)
 -   此项目仓库仅存放前端代码，后端服务迁移到 [ez-server](https://github.com/airhang-cloud/nestjs-template-mock)
 
-## 技术
+## ⚡️ 技术
 
 | Technology  | 描述                                                                       |
 | ----------- | -------------------------------------------------------------------------- |
@@ -55,11 +56,11 @@
 
 ## 产品(暂时简单描述，文档后续补充完整)
 
-#### 登录界面
+#### ⚡️ 登录界面
 
 ![img](https://img.airhang.ltd/ez-admin-login.jpg)
 
-#### 进入主体界面
+#### ⚡️ 进入主体界面
 
 ![img](https://img.airhang.ltd/main.jpg)
 
@@ -67,21 +68,10 @@
 
 ![img](https://img.airhang.ltd/toggleRole.jpg)
 
-#### 角色: user2
+## ⚡️ 更多信息
 
-![img](https://img.airhang.ltd/user2.jpg)
-
-#### 角色: admin
-
-![img](https://img.airhang.ltd/admin.jpg)
-
-#### 系统信息
-
-![img](https://img.airhang.ltd/info.jpg)
-
-#### 退出登录提示
-
-![img](https://img.airhang.ltd/ez-admin-ba02.jpg)
+-   关注微信公众号“部落单元阁”可以获取更多技术宝典
+-   [常用技术知识链接库](https://airhang.ltd/)
 
 #### 项目持续更新,目前还有许多设计还待完善...
 
