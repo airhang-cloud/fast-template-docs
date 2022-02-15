@@ -23,3 +23,9 @@
 ## 2022-2-14
 
 - fast-system-template: 项目打包的优化,缩小包的大小
+
+## 2022-2-15
+
+- fast-system-template:
+    - 添加错误页
+    - 添加窗口监听事件
